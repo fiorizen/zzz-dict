@@ -1,0 +1,26 @@
+{
+  "name": "zzz-dict",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"scripts/**/*.ts\"",
+    "build": "node --import ./scripts/tsnode-register.mjs scripts/build.ts",
+    "releasenote:gen": "node --import ./scripts/tsnode-register.mjs scripts/generate_release.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fiorizen <fiorizen@gmail.com>",
+  "license": "Zlib",
+  "devDependencies": {
+    "@types/node": "^22.2.0",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "volta": {
+    "node": "22.6.0"
+  }
+}
