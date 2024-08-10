@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+  <key>phrase</key>
+  <string>アキラ</string>
+  <key>shortcut</key>
+  <string>あきら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アンビー</string>
+  <key>shortcut</key>
+  <string>あんびー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>イアス</string>
+  <key>shortcut</key>
+  <string>いあす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>エーテル電解液</string>
+  <key>shortcut</key>
+  <string>えーてるでんかいえき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>エネルギー循環液</string>
+  <key>shortcut</key>
+  <string>えねるぎーじゅんかんえき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>音質ブースト原盤</string>
+  <key>shortcut</key>
+  <string>おんしつぶーすとげんばん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>活性ドライブ</string>
+  <key>shortcut</key>
+  <string>かっせいどらいぶ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>基礎着火チップ</string>
+  <key>shortcut</key>
+  <string>きそちゃっかちっぷ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>基礎物理チップ</string>
+  <key>shortcut</key>
+  <string>きそぶつりちっぷ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>強化型強攻キット</string>
+  <key>shortcut</key>
+  <string>きょうかがたきょうこうきっと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>強攻キット</string>
+  <key>shortcut</key>
+  <string>きょうこうきっと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>強攻認証バッジ</string>
+  <key>shortcut</key>
+  <string>きょうこうにんしょうばっじ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>COGNOSPHERE</string>
+  <key>shortcut</key>
+  <string>こぐのすふぃあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>混沌のヘヴィメタル</string>
+  <key>shortcut</key>
+  <string>こんとんのへヴぃめたる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>殺戮を掴む掌</string>
+  <key>shortcut</key>
+  <string>さつりくをつかむてのひら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>式輿</string>
+  <key>shortcut</key>
+  <string>しきよ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>式輿防衛戦</string>
+  <key>shortcut</key>
+  <string>しきよぼうえいせん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>18号</string>
+  <key>shortcut</key>
+  <string>じゅうはちごう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>終幕のダンスシューズ</string>
+  <key>shortcut</key>
+  <string>しゅうまくのだんすしゅーず</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>新エリー都</string>
+  <key>shortcut</key>
+  <string>しんえりーと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>スイング・ジャズ</string>
+  <key>shortcut</key>
+  <string>すいんぐじゃず</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ゼンレスゾーンゼロ</string>
+  <key>shortcut</key>
+  <string>ぜんれすぞーんぜろ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ニコ</string>
+  <key>shortcut</key>
+  <string>にこ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>認証バッジ</string>
+  <key>shortcut</key>
+  <string>にんしょうばっじ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>猫又</string>
+  <key>shortcut</key>
+  <string>ねこまた</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ノイズ低減原盤</string>
+  <key>shortcut</key>
+  <string>のいずていげんげんばん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>濃縮型冷却液</string>
+  <key>shortcut</key>
+  <string>のうしゅくがたれいきゃくえき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>Hi-Fi原盤</string>
+  <key>shortcut</key>
+  <string>はいふぁいげんばん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>鋼の肉球</string>
+  <key>shortcut</key>
+  <string>はがねのにくきゅう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ビリー</string>
+  <key>shortcut</key>
+  <string>びりー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>Fairy</string>
+  <key>shortcut</key>
+  <string>ふぇありー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ブリムストーン</string>
+  <key>shortcut</key>
+  <string>ぶりむすとーん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>HoYoverse</string>
+  <key>shortcut</key>
+  <string>ほよゔぁーす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>HoYoverse</string>
+  <key>shortcut</key>
+  <string>ほよヴぁーす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>HoYoverse</string>
+  <key>shortcut</key>
+  <string>ほよばーす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>miHoYo</string>
+  <key>shortcut</key>
+  <string>みほよ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>リン</string>
+  <key>shortcut</key>
+  <string>りん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>06号</string>
+  <key>shortcut</key>
+  <string>ろくごう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>六分街</string>
+  <key>shortcut</key>
+  <string>ろくぶんがい</string>
+</dict>
+</array>
+</plist>
