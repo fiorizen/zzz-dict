@@ -1,0 +1,37 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Zip files
+        run: zip -r zzz-dictionary.zip zzz-dictionary
+
+      - name: Generate Release Note
+        run: npm run releasenote:gen
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: zzz-dictionary.zip
+          body_path: ./RELEASE_NOTE_GENERATED.md
+          fail_on_unmatched_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
