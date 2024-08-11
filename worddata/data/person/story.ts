@@ -18,5 +18,6 @@ export default {
     { kana: 'ちょっぷたいしょう', word: 'チョップ大将' },
     { kana: 'ますたーてぃん', word: 'マスター・ティン' },
     { kana: 'ばれえきょうだい', word: 'バレエ兄弟' },
+    { kana: 'びっぐだでぃ', word: 'ビッグダディ' },
   ],
 } as DictBase;
