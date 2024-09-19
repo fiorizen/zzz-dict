@@ -7,5 +7,6 @@ export default {
   items: [
     { kana: 'しんえりーとへようこそ', word: '新エリー都へようこそ' },
     { kana: 'ねずみいろのぶるーす', word: 'ネズミ色のブルース' },
+    { kana: 'つーるどいんふぇるの', word: 'ツール・ド・インフェルノ' },
   ],
 } as DictBase;

@@ -4,6 +4,12 @@
 <array>
 <dict>
   <key>phrase</key>
+  <string>アイアンタスク</string>
+  <key>shortcut</key>
+  <string>あいあんたすく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アキラ</string>
   <key>shortcut</key>
   <string>あきら</string>
@@ -13,6 +19,12 @@
   <string>浅羽悠真</string>
   <key>shortcut</key>
   <string>あさばはるまさ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アルボル</string>
+  <key>shortcut</key>
+  <string>あるぼる</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -124,6 +136,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>エーテル耐性</string>
+  <key>shortcut</key>
+  <string>えーてるたいせい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>エーテル電解液</string>
   <key>shortcut</key>
   <string>えーてるでんかいえき</string>
@@ -133,12 +151,6 @@
   <string>エーテル物質</string>
   <key>shortcut</key>
   <string>えーてるぶっしつ</string>
-</dict>
-<dict>
-  <key>phrase</key>
-  <string>エーテル耐性</string>
-  <key>shortcut</key>
-  <string>えーてる耐性</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -187,6 +199,12 @@
   <string>音動機</string>
   <key>shortcut</key>
   <string>おんどうき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>怪奇旅団</string>
+  <key>shortcut</key>
+  <string>かいきりょだん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -310,6 +328,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>グロウル・マイ・カー</string>
+  <key>shortcut</key>
+  <string>ぐろうるまいかー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ケイオス・ジャズ</string>
+  <key>shortcut</key>
+  <string>けいおすじゃず</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ゲームボール</string>
   <key>shortcut</key>
   <string>げーむぼーる</string>
@@ -325,6 +355,12 @@
   <string>激変ノード</string>
   <key>shortcut</key>
   <string>げきへんのーど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>喧嘩腰のボンバルダム</string>
+  <key>shortcut</key>
+  <string>けんかごしのぼんばるだむ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -379,6 +415,12 @@
   <string>サプレッサーVI型</string>
   <key>shortcut</key>
   <string>さぷれっさーろくがた</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ザ・ボールト</string>
+  <key>shortcut</key>
+  <string>ざぼーると</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -484,6 +526,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>新エリー都郊外</string>
+  <key>shortcut</key>
+  <string>しんえりーとこうがい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>新エリー都へようこそ</string>
   <key>shortcut</key>
   <string>しんえりーとへようこそ</string>
@@ -493,6 +541,12 @@
   <string>新エリー都防衛軍</string>
   <key>shortcut</key>
   <string>しんえりーとぼうえいぐん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>真紅のモックス</string>
+  <key>shortcut</key>
+  <string>しんくのもっくす</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -598,6 +652,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>凋落花園</string>
+  <key>shortcut</key>
+  <string>ちょうらくかえん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>調律チューナー</string>
   <key>shortcut</key>
   <string>ちょうりつちゅーなー</string>
@@ -613,6 +673,12 @@
   <string>青衣</string>
   <key>shortcut</key>
   <string>ちんいー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ツール・ド・インフェルノ</string>
+  <key>shortcut</key>
+  <string>つーるどいんふぇるの</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -688,6 +754,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ニトロフューエル</string>
+  <key>shortcut</key>
+  <string>にとろふゅーえる</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>にゃんきち長官</string>
   <key>shortcut</key>
   <string>にゃんきちちょうかん</string>
@@ -733,6 +805,24 @@
   <string>濃縮型冷却液</string>
   <key>shortcut</key>
   <string>のうしゅくがたれいきゃくえき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>バーニス</string>
+  <key>shortcut</key>
+  <string>ばーにす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>バーニス・ホワイト</string>
+  <key>shortcut</key>
+  <string>ばーにすほわいと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>バーニング・シェイカー</string>
+  <key>shortcut</key>
+  <string>ばーにんぐしぇいかー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -868,9 +958,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>プロト・パンク</string>
+  <key>shortcut</key>
+  <string>ぷろとぱんく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>霹靂のヘヴィメタル</string>
   <key>shortcut</key>
   <string>へきれきのへヴぃめたる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヘルバ</string>
+  <key>shortcut</key>
+  <string>へるば</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -976,6 +1078,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>磨き抜かかれた切っ先</string>
+  <key>shortcut</key>
+  <string>みがきぬかかれたきっさき</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>未加工マスターテープ</string>
   <key>shortcut</key>
   <string>みかこうますたーてーぷ</string>
@@ -991,6 +1099,12 @@
   <string>miHoYo</string>
   <key>shortcut</key>
   <string>みほよ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>猛進するキバ</string>
+  <key>shortcut</key>
+  <string>もうしんするきば</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1015,6 +1129,18 @@
   <string>ライカン</string>
   <key>shortcut</key>
   <string>らいかん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ライト</string>
+  <key>shortcut</key>
+  <string>らいと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ラテレム</string>
+  <key>shortcut</key>
+  <string>らてれむ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1051,6 +1177,12 @@
   <string>ルシアーナ・オクシスィース・テオドロ・デ・モンテフィーノ</string>
   <key>shortcut</key>
   <string>るしあーなおくしすぃーすておどろでもんてふぃーの</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ルシアーナ・デ・モンテフィーノ</string>
+  <key>shortcut</key>
+  <string>るしあーなでもんてふぃーの</string>
 </dict>
 <dict>
   <key>phrase</key>

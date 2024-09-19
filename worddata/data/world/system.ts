@@ -34,5 +34,7 @@ export default {
     { kana: 'あんていのーど', word: '安定ノード' },
     { kana: 'げきへんのーど', word: '激変ノード' },
     { kana: 'ようけいかいがり', word: '要警戒狩り' },
+    { kana: 'ちょうらくかえん', word: '凋落花園' },
+    { kana: 'かいきりょだん', word: '怪奇旅団' },
   ],
 } as DictBase;
