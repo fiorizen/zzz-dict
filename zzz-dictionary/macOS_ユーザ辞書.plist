@@ -124,6 +124,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>虚ろに潜む報復劇</string>
+  <key>shortcut</key>
+  <string>うつろにひそむほうふくげき</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>H.D.Dシステム</string>
   <key>shortcut</key>
   <string>えいちでぃーでぃーしすてむ</string>
@@ -181,6 +187,12 @@
   <string>炎獄のヘヴィメタル</string>
   <key>shortcut</key>
   <string>えんごくのへヴぃめたる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>炎心の桂冠</string>
+  <key>shortcut</key>
+  <string>えんしんのけいかん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -385,6 +397,12 @@
   <string>COGNOSPHERE</string>
   <key>shortcut</key>
   <string>こぐのすふぃあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>刻流の賢者</string>
+  <key>shortcut</key>
+  <string>こくりゅうのけんじゃ</string>
 </dict>
 <dict>
   <key>phrase</key>
