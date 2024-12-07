@@ -22,6 +22,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>あられ落つ星殿</string>
+  <key>shortcut</key>
+  <string>あられおつせいでん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アルボル</string>
   <key>shortcut</key>
   <string>あるぼる</string>
@@ -199,6 +205,12 @@
   <string>オボルス小隊</string>
   <key>shortcut</key>
   <string>おぼるすしょうたい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>折枝の刀歌</string>
+  <key>shortcut</key>
+  <string>おりえだのとうか</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -448,6 +460,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>残心の青籠</string>
+  <key>shortcut</key>
+  <string>ざんしんのせいろう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>シーザー</string>
   <key>shortcut</key>
   <string>しーざー</string>
@@ -604,6 +622,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>静寂のアストラ</string>
+  <key>shortcut</key>
+  <string>せいじゃくのあすとら</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>赤牙組</string>
   <key>shortcut</key>
   <string>せきがぐみ</string>
@@ -667,6 +691,12 @@
   <string>対ホロウ6課</string>
   <key>shortcut</key>
   <string>たいほろうろっか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>秩序の守りて・特化型</string>
+  <key>shortcut</key>
+  <string>ちつじょのまもりてとっかがた</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -892,6 +922,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>恥じらう悪面</string>
+  <key>shortcut</key>
+  <string>はじらうあくめん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>パファー・エレクトロ</string>
   <key>shortcut</key>
   <string>ぱふぁーえれくとろ</string>
@@ -1009,6 +1045,12 @@
   <string>防護</string>
   <key>shortcut</key>
   <string>ぼうご</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>星流れ、神鳴の奔るが如く</string>
+  <key>shortcut</key>
+  <string>ほしながれしんめいのはしるがごとく</string>
 </dict>
 <dict>
   <key>phrase</key>
