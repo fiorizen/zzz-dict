@@ -22,6 +22,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アストラ</string>
+  <key>shortcut</key>
+  <string>あすとら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アストラ・ヤオ</string>
+  <key>shortcut</key>
+  <string>あすとらやお</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>あられ落つ星殿</string>
   <key>shortcut</key>
   <string>あられおつせいでん</string>
@@ -88,6 +100,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>イヴリン</string>
+  <key>shortcut</key>
+  <string>いヴりん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>イヴリン・シェヴァリエ</string>
+  <key>shortcut</key>
+  <string>いヴりんしぇヴぁりえ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>畏縮</string>
   <key>shortcut</key>
   <string>いしゅく</string>
@@ -109,6 +133,18 @@
   <string>異常マスタリー</string>
   <key>shortcut</key>
   <string>いじょうますたりー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>イヴリン</string>
+  <key>shortcut</key>
+  <string>いぶりん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>イヴリン・シェヴァリエ</string>
+  <key>shortcut</key>
+  <string>いぶりんしぇばりえ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -604,6 +640,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>スターズ・オブ・リラ</string>
+  <key>shortcut</key>
+  <string>すたーずおぶりら</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>スターライトエンジン</string>
   <key>shortcut</key>
   <string>すたーらいとえんじん</string>
@@ -955,6 +997,18 @@
   <string>ビガー・シリンダー</string>
   <key>shortcut</key>
   <string>びがーしりんだー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヴィクトリア家政</string>
+  <key>shortcut</key>
+  <string>びくとりあかせい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヴィジョン・コーポレーション</string>
+  <key>shortcut</key>
+  <string>びじょんこーぽれーしょん</string>
 </dict>
 <dict>
   <key>phrase</key>
