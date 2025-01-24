@@ -268,6 +268,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>輝きのモーメント</string>
+  <key>shortcut</key>
+  <string>かがやきのもーめんと</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>活性ドライブ</string>
   <key>shortcut</key>
   <string>かっせいどらいぶ</string>
@@ -589,6 +595,12 @@
   <string>シリオン</string>
   <key>shortcut</key>
   <string>しりおん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>シルバーソルジャー・アンビー</string>
+  <key>shortcut</key>
+  <string>しるばーそるじゃーあんびー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1060,6 +1072,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>プルクラ</string>
+  <key>shortcut</key>
+  <string>ぷるくら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>プルクラ・フェリーニ</string>
+  <key>shortcut</key>
+  <string>ぷるくらふぇりーに</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>プロキシ</string>
   <key>shortcut</key>
   <string>ぷろきし</string>
@@ -1231,6 +1255,12 @@
   <string>山獅子組</string>
   <key>shortcut</key>
   <string>やまじしぐみ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>優美のヴァニティ</string>
+  <key>shortcut</key>
+  <string>ゆうびのヴぁにてぃ</string>
 </dict>
 <dict>
   <key>phrase</key>
