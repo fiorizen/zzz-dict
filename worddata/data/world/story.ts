@@ -48,5 +48,7 @@ export default {
     { kana: 'あるぼる', word: 'アルボル' },
     { kana: 'らてれむ', word: 'ラテレム' },
     { kana: 'すたーずおぶりら', word: 'スターズ・オブ・リラ' },
+    { kana: 'もっきんばーど', word: 'モッキンバード' },
+    { kana: 'うんがくさん', word: '雲嶽山' },
   ],
 } as DictBase;

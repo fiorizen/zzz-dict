@@ -106,6 +106,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>儀玄</string>
+  <key>shortcut</key>
+  <string>いーしぇん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>イヴリン</string>
   <key>shortcut</key>
   <string>いヴりん</string>
@@ -175,6 +181,12 @@
   <string>虚ろに潜む報復劇</string>
   <key>shortcut</key>
   <string>うつろにひそむほうふくげき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>雲嶽山</string>
+  <key>shortcut</key>
+  <string>うんがくさん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -730,9 +742,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>0号・アンビー</string>
+  <key>shortcut</key>
+  <string>ぜろごうあんびー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>零号ホロウ</string>
   <key>shortcut</key>
   <string>ぜろごうほろう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>千面の落日</string>
+  <key>shortcut</key>
+  <string>せんめんのらくじつ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -781,6 +805,12 @@
   <string>奪魂の瞑目</string>
   <key>shortcut</key>
   <string>だっこんのめいもく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>橘福福</string>
+  <key>shortcut</key>
+  <string>ちーふーふー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -880,9 +910,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>鳥は夢へと羽ばたいて</string>
+  <key>shortcut</key>
+  <string>とりはゆめへとはばたいて</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ドリルリグ-レッドシャフト</string>
   <key>shortcut</key>
   <string>どりるりぐれっどしゃふと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>涙と過去を埋めて</string>
+  <key>shortcut</key>
+  <string>なみだとかこをうめて</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1060,6 +1102,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>潘引壺</string>
+  <key>shortcut</key>
+  <string>ぱんいんふー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ビガー・シリンダー</string>
   <key>shortcut</key>
   <string>びがーしりんだー</string>
@@ -1081,6 +1129,30 @@
   <string>ビッグダディ</string>
   <key>shortcut</key>
   <string>びっぐだでぃ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ビビアン</string>
+  <key>shortcut</key>
+  <string>びびあん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ビビアン・バンシー</string>
+  <key>shortcut</key>
+  <string>びびあんばんしー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヒューゴ</string>
+  <key>shortcut</key>
+  <string>ひゅーご</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヒューゴ・ヴラド</string>
+  <key>shortcut</key>
+  <string>ひゅーごヴらど</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1315,6 +1387,12 @@
   <string>模擬実戦</string>
   <key>shortcut</key>
   <string>もぎじっせん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>モッキンバード</string>
+  <key>shortcut</key>
+  <string>もっきんばーど</string>
 </dict>
 <dict>
   <key>phrase</key>
