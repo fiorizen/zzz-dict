@@ -88,6 +88,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>0号・アンビー</string>
+  <key>shortcut</key>
+  <string>あんびー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アンビー・デマラ</string>
   <key>shortcut</key>
   <string>あんびーでまら</string>
@@ -544,6 +550,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>シャドウハーモニー</string>
+  <key>shortcut</key>
+  <string>しゃどうはーもにー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>邪兎屋</string>
   <key>shortcut</key>
   <string>じゃとや</string>
@@ -551,6 +563,12 @@
 <dict>
   <key>phrase</key>
   <string>11号</string>
+  <key>shortcut</key>
+  <string>じゅういちごう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>「11号」</string>
   <key>shortcut</key>
   <string>じゅういちごう</string>
 </dict>
@@ -577,6 +595,12 @@
   <string>朱鳶</string>
   <key>shortcut</key>
   <string>しゅえん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>純然たる犠牲</string>
+  <key>shortcut</key>
+  <string>じゅんぜんたるぎせい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -700,6 +724,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>0号・アンビー</string>
+  <key>shortcut</key>
+  <string>ぜろごうあんびー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>零号ホロウ</string>
   <key>shortcut</key>
   <string>ぜろごうほろう</string>
@@ -745,6 +775,12 @@
   <string>対ホロウ6課</string>
   <key>shortcut</key>
   <string>たいほろうろっか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>奪魂の瞑目</string>
+  <key>shortcut</key>
+  <string>だっこんのめいもく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -829,6 +865,18 @@
   <string>ドライバディスク</string>
   <key>shortcut</key>
   <string>どらいばでぃすく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>トリガー</string>
+  <key>shortcut</key>
+  <string>とりがー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>「トリガー」</string>
+  <key>shortcut</key>
+  <string>とりがー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -955,6 +1003,12 @@
   <string>パエトーン</string>
   <key>shortcut</key>
   <string>ぱえとーん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>「パエトーン」の歌</string>
+  <key>shortcut</key>
+  <string>ぱえとーんのうた</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1096,6 +1150,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ペーパーカッター</string>
+  <key>shortcut</key>
+  <string>ぺーぱーかったー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>霹靂のヘヴィメタル</string>
   <key>shortcut</key>
   <string>へきれきのへヴぃめたる</string>
@@ -1117,6 +1177,12 @@
   <string>ベン・ビガー</string>
   <key>shortcut</key>
   <string>べんびがー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>忘却の廃墟にて</string>
+  <key>shortcut</key>
+  <string>ぼうきゃくのはいきょにて</string>
 </dict>
 <dict>
   <key>phrase</key>

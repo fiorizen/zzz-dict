@@ -4,10 +4,10 @@
 |---|--:|
 |[ワールド/ストーリー上の固有名詞](./dict/world/story.md)|43|
 |[ワールド/システム](./dict/world/system.md)|31|
-|[ワールド/システム](./dict/world/version.md)|6|
+|[ワールド/システム](./dict/world/version.md)|7|
 |[地域/地名](./dict/region/index.md)|6|
-|[人物/エージェント](./dict/person/agent.md)|55|
+|[人物/エージェント](./dict/person/agent.md)|60|
 |[人物/登場人物](./dict/person/story.md)|13|
-|[アイテム/ドライバディスク](./dict/item/artifact.md)|16|
+|[アイテム/ドライバディスク](./dict/item/artifact.md)|18|
 |[アイテム/素材](./dict/item/material.md)|9|
-|[アイテム/音動機](./dict/item/weapon.md)|44|
+|[アイテム/音動機](./dict/item/weapon.md)|47|
