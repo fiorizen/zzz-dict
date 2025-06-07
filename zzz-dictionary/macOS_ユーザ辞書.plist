@@ -190,9 +190,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>雲霞の行き着く処</string>
+  <key>shortcut</key>
+  <string>うんかのいきつくところ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>H.D.Dシステム</string>
   <key>shortcut</key>
   <string>えいちでぃーでぃーしすてむ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>衛非地区</string>
+  <key>shortcut</key>
+  <string>えいひちく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -454,6 +466,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>玄墨</string>
+  <key>shortcut</key>
+  <string>げんぼく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>拘縛されし者</string>
   <key>shortcut</key>
   <string>こうばくされしもの</string>
@@ -622,6 +640,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>招福の虎炉</string>
+  <key>shortcut</key>
+  <string>しょうふくのころ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ショックスター・ディスコ</string>
   <key>shortcut</key>
   <string>しょっくすたーでぃすこ</string>
@@ -715,6 +739,12 @@
   <string>静寂のアストラ</string>
   <key>shortcut</key>
   <string>せいじゃくのあすとら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>青溟の鳥籠</string>
+  <key>shortcut</key>
+  <string>せいめいのとりかご</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -817,6 +847,12 @@
   <string>秩序の守りて・特化型</string>
   <key>shortcut</key>
   <string>ちつじょのまもりてとっかがた</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>澄輝坪</string>
+  <key>shortcut</key>
+  <string>ちょうきへい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1378,6 +1414,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>命破</string>
+  <key>shortcut</key>
+  <string>めいは</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>猛進するキバ</string>
   <key>shortcut</key>
   <string>もうしんするきば</string>
@@ -1423,6 +1465,12 @@
   <string>ライト</string>
   <key>shortcut</key>
   <string>らいと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>雷鳴が如き八卦</string>
+  <key>shortcut</key>
+  <string>らいめいがごときはっけ</string>
 </dict>
 <dict>
   <key>phrase</key>

@@ -50,5 +50,7 @@ export default {
     { kana: 'すたーずおぶりら', word: 'スターズ・オブ・リラ' },
     { kana: 'もっきんばーど', word: 'モッキンバード' },
     { kana: 'うんがくさん', word: '雲嶽山' },
+    { kana: 'えいひちく', word: '衛非地区' },
+    { kana: 'ちょうきへい', word: '澄輝坪' },
   ],
 } as DictBase;

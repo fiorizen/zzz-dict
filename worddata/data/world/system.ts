@@ -15,6 +15,8 @@ export default {
     { kana: 'いじょう', word: '異常' },
     { kana: 'しえん', word: '支援' },
     { kana: 'ぼうご', word: '防護' },
+    { kana: 'めいは', word: '命破' },
+    { kana: 'げんぼく', word: '玄墨' },
     { kana: 'おんどうき', word: '音動機' },
     { kana: 'どらいばでぃすく', word: 'ドライバディスク' },
     { kana: 'ぽりくろーむ', word: 'ポリクローム' },
